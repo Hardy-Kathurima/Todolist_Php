@@ -1,0 +1,27 @@
+*{
+	box-sizing:border-box;
+}
+.container{
+	background-color:#D99A9A;
+}
+.card{
+	max-width: 500px;
+}
+
+ul {
+	
+	list-style-type: none;
+}
+span a{
+	color:#D99A9A;
+}
+
+.done{
+	text-decoration:line-through;
+}
+.total-todos{
+	color:#078c03;
+	background-color:#f2f2f2;
+}
+
+
